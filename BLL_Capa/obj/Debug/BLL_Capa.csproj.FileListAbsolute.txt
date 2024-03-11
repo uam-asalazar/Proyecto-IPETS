@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\obj\Debug\BLL_Capa.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\obj\Debug\BLL_Capa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\bin\Debug\BLL_Capa.dll
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\bin\Debug\BLL_Capa.pdb
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\bin\Debug\CapaEntidad.dll
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\bin\Debug\DLL_Capa.dll
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\bin\Debug\CapaEntidad.pdb
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\bin\Debug\DLL_Capa.pdb
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\obj\Debug\BLL_Capa.csproj.CopyComplete
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\obj\Debug\BLL_Capa.dll
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\BLL_Capa\obj\Debug\BLL_Capa.pdb

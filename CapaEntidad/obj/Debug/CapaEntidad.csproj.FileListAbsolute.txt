@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\PC\Documents\UAM\Analisis de Sistemas\Proyecto\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
